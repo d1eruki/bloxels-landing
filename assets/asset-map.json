@@ -1,0 +1,198 @@
+[
+  {
+    "uuid": "c921aaae-fd5a-4ef0-ad60-bda2ac128809",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-01-158x374.png",
+    "bytes": 93419
+  },
+  {
+    "uuid": "650807ee-b78d-4666-88f8-7634bfff341f",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-02-512x512.png",
+    "bytes": 233585
+  },
+  {
+    "uuid": "206be4c1-1cb3-4d05-abd8-f479e2f932d9",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-03-230x532.png",
+    "bytes": 175170
+  },
+  {
+    "uuid": "b8d9c7d6-acb6-480b-9f4e-4e3403b933da",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-04-1024x943.png",
+    "bytes": 544876
+  },
+  {
+    "uuid": "6b5ecdb5-5af3-44f8-b060-41e61c80cc8e",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-05-906x695.png",
+    "bytes": 604653
+  },
+  {
+    "uuid": "85c76862-ee95-4bde-bc12-989eff97d544",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-06-854x853.png",
+    "bytes": 834809
+  },
+  {
+    "uuid": "0aa2638e-f74a-4312-b067-8141358c97c2",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-07-618x988.png",
+    "bytes": 719971
+  },
+  {
+    "uuid": "0d1a208c-fd10-4b95-b078-133a4e2c101b",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-08-764x846.png",
+    "bytes": 860923
+  },
+  {
+    "uuid": "3384f120-5e4f-4ca1-8e07-21fbdb6bf887",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-09-1920x1080.png",
+    "bytes": 1660442
+  },
+  {
+    "uuid": "8607dd83-8fa4-450d-91d0-857c020e1194",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-10-1672x941.png",
+    "bytes": 1264523
+  },
+  {
+    "uuid": "176aa46c-bff2-4b21-a73b-a0876c130beb",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-11-1024x1280.png",
+    "bytes": 1713562
+  },
+  {
+    "uuid": "c45d740b-153a-49ab-9c95-e1ee885bae23",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-12-1480x1040.png",
+    "bytes": 2393414
+  },
+  {
+    "uuid": "ada46918-926b-45c1-bd84-999e63a1c20c",
+    "mime": "image/png",
+    "compressed": false,
+    "file": "assets/images/bloxels-image-13-1680x1083.png",
+    "bytes": 2544222
+  },
+  {
+    "uuid": "4e562071-e0c6-4823-9005-531bce918669",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-main-cyrillic-ext.woff2",
+    "bytes": 11520
+  },
+  {
+    "uuid": "e2bc4986-873d-4b93-a88d-7852aaf6afd6",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-main-cyrillic.woff2",
+    "bytes": 16396
+  },
+  {
+    "uuid": "24738581-2254-4a70-b0d1-a00812d24b81",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-main-greek.woff2",
+    "bytes": 10884
+  },
+  {
+    "uuid": "169de798-4aa0-41bf-b473-a70f96f5feb8",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-main-vietnamese.woff2",
+    "bytes": 8348
+  },
+  {
+    "uuid": "9aa5f54a-5be0-4775-9520-10121ff2271a",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-main-latin-ext.woff2",
+    "bytes": 22380
+  },
+  {
+    "uuid": "43a74d62-d5d8-48c8-acf4-14148ca7877b",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-main-latin.woff2",
+    "bytes": 24964
+  },
+  {
+    "uuid": "75cbc597-d45c-45ae-b1d2-a2422e6bf3b0",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-alt-cyrillic-ext.woff2",
+    "bytes": 25844
+  },
+  {
+    "uuid": "2cd9147c-d1d7-4d1e-ad9d-ee7bdd8f059c",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-alt-cyrillic.woff2",
+    "bytes": 18744
+  },
+  {
+    "uuid": "d6813630-139e-431f-8716-91797b5eccce",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-alt-greek-ext.woff2",
+    "bytes": 11272
+  },
+  {
+    "uuid": "ae3e1b8e-a947-47eb-b452-f251b66be83e",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-alt-greek.woff2",
+    "bytes": 19044
+  },
+  {
+    "uuid": "ce67d7cd-c7f0-49f3-9e1c-584f1b0c162a",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-alt-vietnamese.woff2",
+    "bytes": 10280
+  },
+  {
+    "uuid": "18d80f5e-6358-4026-9cc4-567646f0d4d9",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-alt-latin-ext.woff2",
+    "bytes": 85272
+  },
+  {
+    "uuid": "e761f91d-9a9a-4648-83a3-8bfa2223f7f6",
+    "mime": "font/woff2",
+    "compressed": false,
+    "file": "assets/fonts/geologica-alt-latin.woff2",
+    "bytes": 48432
+  },
+  {
+    "uuid": "d1d51b4e-810a-466b-ae8d-25cfe5d7a91e",
+    "mime": "text/css",
+    "compressed": true,
+    "file": "assets/styles/design-system.css",
+    "bytes": 49854
+  },
+  {
+    "uuid": "a0690a02-9f8a-4e15-a7f5-8a6da30a41cc",
+    "mime": "text/javascript",
+    "compressed": true,
+    "file": "assets/scripts/app.js",
+    "bytes": 3830
+  }
+]
